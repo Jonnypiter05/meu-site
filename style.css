@@ -1,0 +1,21 @@
+.viagem_mainDiv{
+    border:1px solid aquamarine;
+}
+.viagem_mainDiv img {
+    width: 100%;
+}
+.viagem_mainDiv h5 , .viagem_mainDiv p {
+    margin-top: 20px;
+}
+.FilmesHead {
+    font-size: 20px;
+    padding: 6px 22px;
+    border-radius: 10px;
+    margin-bottom: 15px; ;
+}
+.FilmesHead i {
+  float:right ;  
+}
+.FilmesText span {
+  color:aquamarine;  
+}
